@@ -36,19 +36,10 @@ const GhostUchiha06 = {
 ---
 
 <!-- STATS ROW -->
+<!-- STATS -->
 <div align="center">
 
-## `> stats --no-lies`
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhostUchiha06&show_icons=true&theme=blood_dark&include_all_commits=true&count_private=true&title_color=ff3333&icon_color=ff6600&border_color=8b0000&bg_color=0d0d0d&text_color=ff9999&hide_border=false" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostUchiha06&layout=compact&langs_count=8&theme=blood_dark&title_color=ff3333&border_color=8b0000&bg_color=0d0d0d&text_color=ff9999" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GhostUchiha06&theme=dark&background=0d0d0d&ring=8b0000&fire=ff3333&currStreakLabel=ff3333&border=8b0000&sideLabels=ff9999&dates=666666&currStreakNum=ff3333&sideNums=ff9999" alt="GitHub Streak" />
+![Streak](https://streak-stats.demolab.com?user=GhostUchiha06&theme=dark&background=0d0d0d&ring=8b0000&fire=ff3333&currStreakLabel=ff3333&border=8b0000&sideLabels=ff9999&currStreakNum=ff3333&sideNums=ff9999)
 
 </div>
 
@@ -97,7 +88,6 @@ const GhostUchiha06 = {
 
 </div>
 
-> ⚠️ *To activate the snake, add a GitHub Action in your profile repo — see setup below.*
 
 ---
 
@@ -106,7 +96,7 @@ const GhostUchiha06 = {
 
 <div align="center">
 
-[![lcit-et](https://github-readme-stats.vercel.app/api/pin/?username=GhostUchiha06&repo=lcit-et&theme=blood_dark&title_color=ff3333&border_color=8b0000&bg_color=0d0d0d&text_color=ff9999&icon_color=ff6600)](https://github.com/GhostUchiha06/lcit-et)
+[![lcit-et](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=10000&size=22&color=FF3333&center=true&vCenter=true&width=100&lines=lcit-et)](https://github.com/GhostUchiha06/lcit-et)
 
 </div>
 
