@@ -106,7 +106,6 @@ const GhostUchiha06 = {
 
 <div align="center">
 
-[![Shell](https://github-readme-stats.vercel.app/api/pin/?username=GhostUchiha06&repo=Shell&theme=blood_dark&title_color=ff3333&border_color=8b0000&bg_color=0d0d0d&text_color=ff9999&icon_color=ff6600)](https://github.com/GhostUchiha06/Shell)
 [![lcit-et](https://github-readme-stats.vercel.app/api/pin/?username=GhostUchiha06&repo=lcit-et&theme=blood_dark&title_color=ff3333&border_color=8b0000&bg_color=0d0d0d&text_color=ff9999&icon_color=ff6600)](https://github.com/GhostUchiha06/lcit-et)
 
 </div>
